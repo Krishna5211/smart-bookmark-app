@@ -6,7 +6,7 @@ Users can sign in using Google OAuth, create private bookmarks, and see real-tim
 
 🌐 Live Demo
 
-👉 https://smart-bookmark-app.vercel.app
+👉 https://smart-bookmark-app-one.vercel.app/
 
 (Test using any Google account)
 
@@ -31,8 +31,6 @@ Next.js 14 (App Router)
 Supabase
 
 Authentication
-
-PostgreSQL
 
 Row Level Security (RLS)
 

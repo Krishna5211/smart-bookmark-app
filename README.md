@@ -105,8 +105,7 @@ Configured Supabase keys securely in Vercel dashboard.
 
 ## ▶ Run Locally
 
-```bash
-cd smart-bookmark-app
+```bashcd smart-bookmark-app
 npm install
 npm run dev
 ```

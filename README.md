@@ -43,6 +43,7 @@
 | Tailwind CSS | UI Styling |
 | Vercel | Deployment |
 
+
 ---
 
 ## 🔐 Security Implementation
@@ -105,7 +106,6 @@ Configured Supabase keys securely in Vercel dashboard.
 ## ▶ Run Locally
 
 ```bash
-git clone https://github.com/Rachit141/smart-bookmark-app.git
 cd smart-bookmark-app
 npm install
 npm run dev
